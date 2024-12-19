@@ -32,6 +32,7 @@ widget users can manipulate. Changing the model changes the view.
 
         # model that we will be modifying in the snippet
         root = MenuModel()
+        model = MenuModel()
 
         # snippet goes here
 
