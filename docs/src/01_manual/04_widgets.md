@@ -138,8 +138,8 @@ set_margin_top!(widget, 10)
 set_margin_bottom!(widget, 10)
 
 # equivalent to
-set_margin_horizontal(widget, 10)
-set_margin_vertical(widget, 10)
+set_margin_horizontal!(widget, 10)
+set_margin_vertical!(widget, 10)
 
 # equivalent to
 set_margin!(widget, 10)
